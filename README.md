@@ -46,9 +46,9 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Intesar%20Haque-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Intesar-Haque/)
-[![Email](https://img.shields.io/badge/Email-intesar@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intesar@example.com)
+[![Email](https://img.shields.io/badge/Email-intesar@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intesarhaque99@gmail.com)
 
 ---
 
-_Thanks for visiting my profile! ⭐ Feel free to check out my repositories and connect!_
+_Thanks for visiting my profile! ⭐ Feel free to reachout and connect!_
 
