@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+Flutter+%7C+Django+%7C+Laravel+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+Flutter+%7C+Django" alt="Typing SVG" />
 </p>
 
 ---
