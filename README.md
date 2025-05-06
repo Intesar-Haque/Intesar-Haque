@@ -42,7 +42,7 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Intesar%20Haque-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Intesar-Haque/)
-[![Email](https://img.shields.io/badge/Email-intesar@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intesarhaque99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-intesarhaque99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intesarhaque99@gmail.com)
 
 ---
 
