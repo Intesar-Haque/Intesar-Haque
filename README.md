@@ -30,10 +30,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Intesar-Haque&theme=tokyonight" alt="Intesar's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intesar-Haque&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
