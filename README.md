@@ -1,7 +1,27 @@
-<h1 align="center">Hi 👋, I'm Intesar Haque</h1>
+<h1 align="center">Intesar Haque</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Spring+Boot+%7C+Angular+%7C+Flutter+%7C+Django+%7C+Laravel" alt="Typing SVG" />
+  <b>CEO @ Inkphase</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=CEO+%40+Inkphase;Spring+Boot+%7C+Angular+%7C+Flutter+%7C+Django+%7C+Laravel" alt="Typing SVG" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Intesar-Haque&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Intesar-Haque&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intesar-Haque&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -45,7 +65,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Intesar-Haque/">
@@ -59,8 +79,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  ⭐ _Thanks for visiting my profile! Let’s build something amazing together._ 🚀
+  <img src="https://komarev.com/ghpvc/?username=Intesar-Haque&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
