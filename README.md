@@ -10,18 +10,21 @@
 
 ---
 
+### 🏆 Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Intesar-Haque&theme=radical&no-frame=true&margin-w=10&row=1&column=7" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Intesar-Haque&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Intesar-Haque&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intesar-Haque&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Intesar-Haque&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intesar-Haque&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Intesar-Haque&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
